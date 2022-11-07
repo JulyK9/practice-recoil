@@ -1,0 +1,14 @@
+{
+  "todos" : [
+    {
+      "id": 0,
+      "text": "learn recoil",
+      "isComplete": false
+    },
+    {
+      "id": 1,
+      "text": "learn atom",
+      "isComplete": false
+    }
+  ]
+}
